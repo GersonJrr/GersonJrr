@@ -27,7 +27,9 @@
 ## Tecnologias
 
 •Desenvolvimento de back-end usando .NET Core, .NET Framework.
+<br>
 •Desenvolvimento front-end usando React, HTML, CSS, Javascript e Typescript
+<br>
 •Bancos de dados relacionais usando SQL Server.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonJrr)](https://github.com/anuraghazra/github-readme-stats)
